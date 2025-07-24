@@ -20,7 +20,7 @@ This project provides a **robust**, **scalable**, and **full-featured online sho
   - **Place orders** with address and payment details
   - **View and track order history**
   - **Receive order confirmation**
-  - 
+  
 ### 🛠️ Admin Features
 - 📊 **Admin Dashboard**
   - **View total sales**, orders, users, and product analytics
