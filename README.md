@@ -7,26 +7,34 @@ This project provides a **robust**, **scalable**, and **full-featured online sho
 **Live App Demo** : [https://mern-shop-abxs.onrender.com/](https://mern-shop-abxs.onrender.com/)</br>
 
 
-## Features
-
-- **Full-Featured Shopping Cart**: Seamless shopping cart functionality for users to add, remove, and manage products.
-- **Product Reviews and Ratings**: Users can leave reviews and provide ratings for products.
-- **Top Products Carousel**: Display a carousel of top-rated or featured products.
-- **Product Pagination**: Navigate through products efficiently with pagination.
-- **Product Search Feature**: Easily search for products based on keywords.
-- **User Profile with Orders**: Users can create profiles and track their order history.
-- **Admin Dashboard**: Comprehensive dashboard for administrators to manage admins, products, users, and orders.
-- **Admin Admin Management**: Manage admin accounts.
-- **Admin Product Management**: Add, edit, and delete products from the platform.
-- **Admin User Management**: Manage user accounts.
-- **Admin Order Details Page**: Access detailed information about each order.
-- **Mark Orders as Delivered Option**: Ability to update order status to "delivered."
-- **Checkout Process**: Seamless checkout with options for shipping and payment methods.
-- **Razorpay Integration**: Secure payment processing through Razorpay.
-- **Database Seeder**: Easily populate the database with sample products and users.
+## 🚀 Features
+### 👥 User Features
+- 🔐 **Authentication**
+  - **User registration & login** with JWT
+  - **Secure password hashing**
+- 🛍️ **Shopping Experience**
+  - **Browse all products** with category & keyword filters
+  - **View detailed product pages**
+  - **Add products to cart**, update quantity, or remove items
+- 🧾 **Checkout & Orders**
+  - **Place orders** with address and payment details
+  - **View and track order history**
+  - **Receive order confirmation**
+  - 
+### 🛠️ Admin Features
+- 📊 **Admin Dashboard**
+  - **View total sales**, orders, users, and product analytics
+- 👤 **User Management**
+  - **View all registered users**
+  - **Promote/demote or delete users**
+- 📦 **Product Management**
+  - **Add, update, and delete products**
+  - **Upload product images** using Cloudinary (or local)
+- 📦 **Order Management**
+  - **View all orders**
+  - **Update order status** (e.g., Processing → Shipped → Delivered)
 
 ## Sample User Logins
-
 - **Live Admin Dashboard Login:**: [https://mern-shop-abxs.onrender.com/admin/login](https://mern-shop-abxs.onrender.com/admin/login)
 
   - Email: admin@admin.com
