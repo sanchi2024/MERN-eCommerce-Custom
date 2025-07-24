@@ -1,3 +1,4 @@
+**MERN-ECommerce Project**
 Welcome to the **eCommerce Platform Project** built using the **MERN (MongoDB, Express.js, React, Node.js)** Stack.  
 This project provides a **robust**, **scalable**, and **full-featured online shopping platform** with various functionalities designed to enhance the user experience for both customers and administrators.
 
